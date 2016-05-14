@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Simple Toast App</string>
+    <string name="hintName">Enter Your Name</string>
+    <string name="submitButton">Submit</string>
+    <string name="name_missing">Please enter a name</string>
+    <string name="name_entered">You entered %s</string>
+    </resources>
